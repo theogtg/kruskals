@@ -1,0 +1,21 @@
+2
+14 9
+King, High Point, 4
+King, Raleigh, 8
+High Point, Raleigh, 11
+High Point, Greensboro, 8
+Greensboro, Kernersville, 2
+Greensboro, Archdale, 4
+Greensboro, Boone, 7
+Boone, Archdale, 14
+Boone, Winston-Salem, 9
+Winston-Salem, Archdale, 10
+Archdale, Walnut Cove, 2
+Walnut Cove, Raleigh, 1
+Walnut Cove, Kernersville, 6
+Raleigh, Kernersville, 7
+4 6
+King, High Point, 4
+King, Raleigh, 8
+Boone, Archdale, 14
+Boone, Winston-Salem, 9
